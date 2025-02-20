@@ -1,2 +1,2 @@
-# FUNDAMENTOS-DE-PROGRAMACI-N
-Repositorio esta diseñado para tutorias y clases.
+# FUNDAMENTOS DE PROGRAMACIÓN
+Este repositorio esta diseñado para tutorias y clases.
