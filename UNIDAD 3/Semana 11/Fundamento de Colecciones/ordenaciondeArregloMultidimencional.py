@@ -4,12 +4,9 @@ matriz = [
     [1, 6, 2],
     [0, 8, 5]
 ]
-
-
+#funcion que ordena una fila usando Bubble Sort.
 def bubble_sort(fila):
-    
-    """funcion que ordena una fila usando Bubble Sort."""
-    n = len(fila)
+    n =len(fila)
     for i in range(n):
         for j in range(0, n - i - 1):
             if fila[j] > fila[j + 1]:
