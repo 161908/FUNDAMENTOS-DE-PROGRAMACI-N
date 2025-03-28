@@ -39,7 +39,7 @@ if "telefono" not in informacion_personal:
     informacion_personal["telefono"] = "0934799021"
 
 # Agregar una nueva clave-valor "correo"
-informacion_personal["correo"] = "nataly@example.com"
+informacion_personal["correo"] = "nataly@gmail.com"
 
 # Eliminar la clave "edad"
 informacion_personal.pop("edad", None)
