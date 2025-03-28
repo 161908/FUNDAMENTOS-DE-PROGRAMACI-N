@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b2bd589-5787-4503-bb77-a5b59a945084" name="Changes" comment="Tarea Semana 14   20/03/2025">
+      <change afterPath="$PROJECT_DIR$/UNIDAD 4/4-2-1Coleccionesdedatoslistasconjuntosdiccionarios/4-2-1Diccionarios.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIDAD 3/3-1-1 -- arreglos/Arreglos.py" beforeDir="false" afterPath="$PROJECT_DIR$/UNIDAD 3/Semana 10/3-1-1 -- arreglos/Arreglos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIDAD 3/3-2-2-- arreglos iteracion bucles anidados/temperaturas-ciudades.py" beforeDir="false" afterPath="$PROJECT_DIR$/UNIDAD 3/Semana 12/3-2-2-- arreglos iteracion bucles anidados/temperaturas-ciudades.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones/busquedaArregloMultidimencional.py" beforeDir="false" afterPath="$PROJECT_DIR$/UNIDAD 3/Semana 11/Fundamento de Colecciones/busquedaArregloMultidimencional.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones/ordenaciondeArregloMultidimencional.py" beforeDir="false" afterPath="$PROJECT_DIR$/UNIDAD 3/Semana 11/Fundamento de Colecciones/ordenaciondeArregloMultidimencional.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;161908&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/161908/FUNDAMENTOS-DE-PROGRAMACI-N.git&quot;,
+    &quot;accountId&quot;: &quot;34c1f4bc-4708-4493-9fd9-8abce9777b90&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2te1kjeulbnGUIuKWVZiqUVf9BH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Vcs Notifications": "VCS notifications",
+    "Notification.DoNotAsk-Vcs Notifications": "true",
+    "Python.4-2-1Diccionarios.executor": "Run",
+    "Python.EJEMPLO 2 calculo con descuentos.executor": "Run",
+    "Python.Ejemplo calculo con descuento.executor": "Run",
+    "Python.Ejemplo de funcion.executor": "Run",
+    "Python.busquedaArregloMultidimencional.executor": "Run",
+    "Python.busquedadeArregloMultidimencional.executor": "Run",
+    "Python.ordenaciondeArregloMultidimencional.executor": "Run",
+    "Python.temperaturas-ciudades.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Nataly/Desktop/UEA MISHEL/FUNDAMENTOS DE PROGRAMACION (A)/Clonación de comandos/FUNDAMENTOS-DE-PROGRAMACI-N/FUNDAMENTOS-DE-PROGRAMACI-N",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nataly\Desktop\UEA MISHEL\FUNDAMENTOS DE PROGRAMACION (A)\Clonación de comandos\FUNDAMENTOS-DE-PROGRAMACI-N\FUNDAMENTOS-DE-PROGRAMACI-N\UNIDAD 3\Semana 10" />
+      <recent name="C:\Users\Nataly\Desktop\UEA MISHEL\FUNDAMENTOS DE PROGRAMACION (A)\Clonación de comandos\FUNDAMENTOS-DE-PROGRAMACI-N\FUNDAMENTOS-DE-PROGRAMACI-N\UNIDAD 3\Semana 12" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.4-2-1Diccionarios">
+    <configuration name="4-2-1Diccionarios" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FUNDAMENTOS-DE-PROGRAMACI-N" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UNIDAD 4/4-2-1Coleccionesdedatoslistasconjuntosdiccionarios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UNIDAD 4/4-2-1Coleccionesdedatoslistasconjuntosdiccionarios/4-2-1Diccionarios.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejemplo de funcion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FUNDAMENTOS-DE-PROGRAMACI-N" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UNIDAD 3/Semana 13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UNIDAD 3/Semana 13/Ejemplo de funcion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ordenaciondeArregloMultidimencional" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FUNDAMENTOS-DE-PROGRAMACI-N" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones/ordenaciondeArregloMultidimencional.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temperaturas-ciudades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FUNDAMENTOS-DE-PROGRAMACI-N" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UNIDAD 3/3-2-2-- arreglos iteracion bucles anidados" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UNIDAD 3/3-2-2-- arreglos iteracion bucles anidados/temperaturas-ciudades.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.4-2-1Diccionarios" />
+        <item itemvalue="Python.Ejemplo de funcion" />
+        <item itemvalue="Python.temperaturas-ciudades" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b2bd589-5787-4503-bb77-a5b59a945084" name="Changes" comment="" />
+      <created>1740697870726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740697870726</updated>
+      <workItem from="1740697872079" duration="10560000" />
+      <workItem from="1740855934780" duration="1781000" />
+      <workItem from="1741464186734" duration="9532000" />
+      <workItem from="1741930227641" duration="3258000" />
+      <workItem from="1742010112789" duration="2391000" />
+      <workItem from="1742085947809" duration="4270000" />
+      <workItem from="1742499939113" duration="11803000" />
+      <workItem from="1743122142426" duration="2553000" />
+    </task>
+    <task id="LOCAL-00001" summary="Tarea Semana 11   27/02/2025">
+      <option name="closed" value="true" />
+      <created>1740709202657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740709202657</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea Semana 12   08/03/2025">
+      <option name="closed" value="true" />
+      <created>1741474470412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741474470412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea Semana 13   15/03/2025">
+      <option name="closed" value="true" />
+      <created>1742090699821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742090699821</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tarea Semana 14   20/03/2025">
+      <option name="closed" value="true" />
+      <created>1742511060448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742511060448</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea Semana 11   27/02/2025" />
+    <MESSAGE value="Tarea Semana 12   08/03/2025" />
+    <MESSAGE value="Tarea Semana 13   15/03/2025" />
+    <MESSAGE value="Tarea Semana 14   20/03/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea Semana 14   20/03/2025" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$Ejemplo_de_funcion.coverage" NAME="Ejemplo de funcion Coverage Results" MODIFIED="1743124141512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Semana 13" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$temperaturas_ciudades.coverage" NAME="temperaturas-ciudades Coverage Results" MODIFIED="1741474347507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/3-2-2-- arreglos iteracion bucles anidados" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$busquedaArregloMultidimencional.coverage" NAME="busquedaArregloMultidimencional Coverage Results" MODIFIED="1740704979064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$EJEMPLO_2_calculo_con_descuentos.coverage" NAME="EJEMPLO 2 calculo con descuentos Coverage Results" MODIFIED="1742505608757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 4/4-1-2-- Funciones con parámetros" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$busquedadeArregloMultidimencional.coverage" NAME="busquedadeArregloMultidimencional Coverage Results" MODIFIED="1740707969340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$Ejemplo_calculo_con_descuento.coverage" NAME="Ejemplo calculo con descuento Coverage Results" MODIFIED="1742511375875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 4/4-1-2-- Funciones con parámetros" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$4_2_1Diccionarios.coverage" NAME="4-2-1Diccionarios Coverage Results" MODIFIED="1743124680908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 4/4-2-1Coleccionesdedatoslistasconjuntosdiccionarios" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$ordenaciondeArregloMultidimencional.coverage" NAME="ordenaciondeArregloMultidimencional Coverage Results" MODIFIED="1741466813513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones" />
+  </component>
+</project>
