@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b2bd589-5787-4503-bb77-a5b59a945084" name="Changes" comment="Tarea Semana 15   27/03/2025" />
+    <list default="true" id="5b2bd589-5787-4503-bb77-a5b59a945084" name="Changes" comment="Tarea Semana 15   27/03/2025    Diccionario">
+      <change afterPath="$PROJECT_DIR$/UNIDAD 4/4-2-2__Ejemplo - Write y Readline/Ejemplo uso write y Readline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +52,7 @@
     "Python.EJEMPLO 2 calculo con descuentos.executor": "Run",
     "Python.Ejemplo calculo con descuento.executor": "Run",
     "Python.Ejemplo de funcion.executor": "Run",
+    "Python.Ejemplo uso write y Readline.executor": "Run",
     "Python.busquedaArregloMultidimencional.executor": "Run",
     "Python.busquedadeArregloMultidimencional.executor": "Run",
     "Python.ordenaciondeArregloMultidimencional.executor": "Run",
@@ -195,7 +199,9 @@
       <workItem from="1742010112789" duration="2391000" />
       <workItem from="1742085947809" duration="4270000" />
       <workItem from="1742499939113" duration="11803000" />
-      <workItem from="1743122142426" duration="2856000" />
+      <workItem from="1743122142426" duration="4502000" />
+      <workItem from="1743206383526" duration="628000" />
+      <workItem from="1743913576894" duration="2545000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea Semana 11   27/02/2025">
       <option name="closed" value="true" />
@@ -245,7 +251,47 @@
       <option name="project" value="LOCAL" />
       <updated>1743124952246</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tarea Semana 15   27/03/2025">
+      <option name="closed" value="true" />
+      <created>1743125031606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743125031606</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tarea Semana 15   27/03/2025">
+      <option name="closed" value="true" />
+      <created>1743125111094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743125111094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea Semana 15   27/03/2025">
+      <option name="closed" value="true" />
+      <created>1743125120641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743125120641</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarea Semana 15   27/03/2025">
+      <option name="closed" value="true" />
+      <created>1743125186286</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743125186286</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Tarea Semana 15   27/03/2025    Diccionario">
+      <option name="closed" value="true" />
+      <created>1743126086564</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743126086564</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,16 +303,18 @@
     <MESSAGE value="Tarea Semana 13   15/03/2025" />
     <MESSAGE value="Tarea Semana 14   20/03/2025" />
     <MESSAGE value="Tarea Semana 15   27/03/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea Semana 15   27/03/2025" />
+    <MESSAGE value="Tarea Semana 15   27/03/2025    Diccionario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea Semana 15   27/03/2025    Diccionario" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$Ejemplo_de_funcion.coverage" NAME="Ejemplo de funcion Coverage Results" MODIFIED="1743124141512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Semana 13" />
     <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$temperaturas_ciudades.coverage" NAME="temperaturas-ciudades Coverage Results" MODIFIED="1741474347507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/3-2-2-- arreglos iteracion bucles anidados" />
     <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$busquedaArregloMultidimencional.coverage" NAME="busquedaArregloMultidimencional Coverage Results" MODIFIED="1740704979064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones" />
     <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$EJEMPLO_2_calculo_con_descuentos.coverage" NAME="EJEMPLO 2 calculo con descuentos Coverage Results" MODIFIED="1742505608757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 4/4-1-2-- Funciones con parámetros" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$Ejemplo_uso_write_y_Readline.coverage" NAME="Ejemplo uso write y Readline Coverage Results" MODIFIED="1743916584324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 4/4-2-2__Ejemplo - Write y Readline" />
     <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$busquedadeArregloMultidimencional.coverage" NAME="busquedadeArregloMultidimencional Coverage Results" MODIFIED="1740707969340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones" />
     <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$Ejemplo_calculo_con_descuento.coverage" NAME="Ejemplo calculo con descuento Coverage Results" MODIFIED="1742511375875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 4/4-1-2-- Funciones con parámetros" />
-    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$4_2_1Diccionarios.coverage" NAME="4-2-1Diccionarios Coverage Results" MODIFIED="1743124680908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 4/4-2-1Coleccionesdedatoslistasconjuntosdiccionarios" />
+    <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$4_2_1Diccionarios.coverage" NAME="4-2-1Diccionarios Coverage Results" MODIFIED="1743915193411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 4/4-2-1Coleccionesdedatoslistasconjuntosdiccionarios" />
     <SUITE FILE_PATH="coverage/FUNDAMENTOS_DE_PROGRAMACI_N$ordenaciondeArregloMultidimencional.coverage" NAME="ordenaciondeArregloMultidimencional Coverage Results" MODIFIED="1741466813513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UNIDAD 3/Fundamento de Colecciones" />
   </component>
 </project>
